@@ -78,6 +78,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username="mihiragarwal92">
+    <img src="https://komarev.com/ghpvc/?username=mihiragarwal92>
+                                                                 
 </a>
 <a href="https://github.com/mihiragarwal92?tab=followers"><img src="https://img.shields.io/github/followers/Smihiragarwal92?label=Followers&style=social" alt="GitHub Badge"></a>
